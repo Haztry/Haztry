@@ -1,17 +1,8 @@
-# Hi there [![pepe_rotate](https://cdn3.emoji.gg/emojis/5730-pepe-rotate.gif)](https://emoji.gg/emoji/5730-pepe-rotate)
-
-<div align="center"> <img src="https://64.media.tumblr.com/9f0a81eedf0d5100142e6927502067ce/36dd8af677836c2c-a2/s2048x3072/2ff6e86c5dfb0239e7becf7e50a35c8de55e8deb.pnj"> </div>
-
 <h3 align="center">My Name is Omar, I currently live in México.</h3>
-
-
-![ Alt text](https://cdn.discordapp.com/attachments/880855919892791336/918390110360338482/BARRA.gif) 
 
 ## - About me -
 
-- 👨‍💻 I’m a Computer Engineering student.
-
-- 💬 I speak 3 different languages (Chinese, Spanish and English)
+👨‍💻 I'm a Computer Engineering Student<br>💬 I currently speak 2 laguages (English 90 %, Spanish)<br><br>
 
 
 ## - Skills -
